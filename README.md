@@ -24,3 +24,5 @@ I completed the quiz independently and carefully considered each question, apply
 **R – Result**  
 I achieved a **100/100 score**, which reflects my strong grasp of the subject matter and my active engagement with the career development process.
 
+## Skills and Interests
+
