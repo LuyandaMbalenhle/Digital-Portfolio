@@ -26,3 +26,5 @@ I achieved a **100/100 score**, which reflects my strong grasp of the subject ma
 
 ## Skills and Interests
 
+![Career Counselling Screenshot](https://github.com/LuyandaMbalenhle/Digital-Portfolio/blob/7ae1633069d659711c1b849fe0dc7e95d641458c/careerCounselling.png)
+
