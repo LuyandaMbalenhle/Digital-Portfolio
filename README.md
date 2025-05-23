@@ -45,6 +45,22 @@ I achieved a **100/100 score**, successfully identifying key concepts and their 
 ## Create CV
 ![Create CV Screenshot](careerCounselling.png)
 
+[📄 View My CV (PDF)](CV.pdf)
+
+### 🪞 Reflection: CV Creation (STAR Technique)
+
+**S – Situation**  
+As I prepared for job opportunities and internships, I realized I needed a professional CV that clearly highlighted my skills, education, and experiences in ICT and application development.
+
+**T – Task**  
+My goal was to create a clean, well-structured CV that reflects my qualifications, projects, and soft skills in a way that would appeal to employers in the tech industry.
+
+**A – Action**  
+I selected a professional template, gathered all relevant information, and focused on tailoring the content to reflect my technical competencies (e.g. Java, SQL, APIs) and teamwork experiences. I also ensured that the formatting was consistent and easy to read.
+
+**R – Result**  
+The result is a polished CV that I can confidently submit for job applications. It presents me as a focused and capable candidate, and I’ve already used it to apply for internships through platforms like LinkedIn and job portals.
+
 
 
 
