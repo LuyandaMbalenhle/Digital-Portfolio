@@ -42,6 +42,10 @@ I reviewed my study materials, reflected on my past experiences, and answered ea
 **R – Result**  
 I achieved a **100/100 score**, successfully identifying key concepts and their relevance to career development. This reflection helped me recognize my strengths and how they align with roles in technology and development.
 
+## Create CV
+![Create CV Screenshot](careerCounselling.png)
+
+
 
 
 
