@@ -24,9 +24,11 @@ I completed the quiz independently and carefully considered each question, apply
 **R – Result**  
 I achieved a **100/100 score**, which reflects my strong grasp of the subject matter and my active engagement with the career development process.
 
-## 🧠Skills and Interests
+---
 
-![Career Counselling Screenshot](skills_and-development.png)
+## 🧠 Skills and Interests
+
+![Skills and Interests Screenshot](skills_and-development.png)
 
 ### 🪞 Reflection: Skills & Interests (STAR Technique)
 
@@ -42,12 +44,48 @@ I reviewed my study materials, reflected on my past experiences, and answered ea
 **R – Result**  
 I achieved a **100/100 score**, successfully identifying key concepts and their relevance to career development. This reflection helped me recognize my strengths and how they align with roles in technology and development.
 
-## Create CV
-![Create CV Screenshot](careerCounselling.png)
+---
+
+## 📄 Create a CV
+
+![Create CV Screenshot](careerCounselling.png) <!-- Consider replacing with a correct CV-related screenshot -->
+
+### 🪞 Reflection: CV Creation (STAR Technique)
+
+**S – Situation**  
+While preparing for internship and job applications in the ICT field, I needed a professional CV that reflected both my technical skills and career readiness.
+
+**T – Task**  
+I needed to:  
+1. Understand industry standards for ICT CVs  
+2. Highlight my technical skills effectively  
+3. Optimize the document for Applicant Tracking Systems (ATS)
+
+**A – Action**  
+1. **Completed the CV Quiz** (scored 100%) to learn CV fundamentals:  
+   - Learned to list work experience in *reverse chronological order*  
+   - Understood how to categorize skills (e.g., *"Python (Intermediate)"*)  
+
+2. **Iterative Improvements**:  
+   - Created 3 CV drafts and incorporated feedback from:  
+     - CPUT Career Services  
+     - ICT professionals on LinkedIn  
+   - Used [ResumeWorded.com](https://resumeworded.com) to improve ATS compatibility  
+
+3. **Tailored Content**:  
+   - Added key projects with GitHub links  
+   - Included certifications relevant to the roles I’m targeting  
+
+**R – Result**  
+I now have a well-structured and ATS-friendly CV that confidently presents my qualifications. It reflects both my technical background and commitment to continuous improvement, and I’ve already used it to apply for several industry-relevant opportunities.
+
+---
+
+## 📬 CV Submission
 
 [📄 View My CV (PDF)](CV.pdf)
 
-### 🪞 Reflection: CV Creation (STAR Technique)
+### 🪞 Reflection: CV Submission (STAR Technique)
 
 **S – Situation**  
 As I prepared for job opportunities and internships, I realized I needed a professional CV that clearly highlighted my skills, education, and experiences in ICT and application development.
@@ -60,8 +98,3 @@ I selected a professional template, gathered all relevant information, and focus
 
 **R – Result**  
 The result is a polished CV that I can confidently submit for job applications. It presents me as a focused and capable candidate, and I’ve already used it to apply for internships through platforms like LinkedIn and job portals.
-
-
-
-
-
