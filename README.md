@@ -154,7 +154,7 @@ The mock interview was an invaluable learning experience. Reviewing the recordin
 
 
 ## Professional Networking
-![Professional Networking](eventPicture.png)
+![Professional Networking](eventPicture.jpg)
 ### Situation
 I engaged in two key professional networking activities: completing a theoretical quiz on networking principles through our online learning platform, and practically applying these concepts at the **Woolworths Women in Tech Caraval event**. At this industry event, I had the opportunity to network with numerous professionals in the technology field while assisting Dr. Hendricks with robotics demonstrations.
 
