@@ -174,4 +174,24 @@ My objectives were twofold: first, to demonstrate theoretical knowledge of netwo
 ### Result
 The combination of theoretical learning and practical application proved incredibly valuable. I successfully completed the networking quiz with a 100% attempt rate, while the Woolworths event yielded tangible results: I made **5 new professional contacts** in the ICT industry, gained insights into current technology trends, and received positive feedback on my robotics demonstration skills. This experience transformed abstract networking concepts into practical relationship-building skills that I can continue to develop throughout my career. The event also boosted my confidence in approaching professionals and articulating my career interests effectively.
 
+## Work Etiquette
+
+## Reflection: STAR Technique
+
+### Situation
+I completed a Workplace Etiquette quiz as part of my professional development training. The assessment tested my understanding of appropriate professional conduct in various workplace scenarios, including email communication, meeting punctuality, confidentiality, phone usage, and personal time management.
+
+### Task
+My goal was to demonstrate comprehensive knowledge of professional workplace behavior and protocols. I needed to show understanding of how to handle challenging situations like receiving rude emails, maintain confidentiality with sensitive information, and adhere to professional standards for punctuality and technology use in work environments.
+
+### Action
+I approached the quiz by applying my knowledge of professional standards to each scenario:
+- For email etiquette, I selected the professional response to rude communication
+- Regarding meeting times, I applied principles of business punctuality
+- For confidentiality, I identified proper handling of sensitive information
+- I demonstrated understanding of appropriate personal phone usage during work hours
+- I selected the correct protocol for requesting early departure for personal reasons
+
+### Result
+I completed the quiz with a 100% attempt rate in 3 minutes and 10 seconds. While I answered most questions correctly, one question about meeting arrival time was marked incorrect, providing valuable insight into specific areas where my understanding of business punctuality standards needed refinement. This assessment reinforced that workplace etiquette involves both formal protocols and interpersonal sensitivity. I now have a clearer framework for navigating professional environments with confidence and appropriateness.
 
