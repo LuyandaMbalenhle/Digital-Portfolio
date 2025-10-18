@@ -114,6 +114,7 @@ The result is a polished CV that I can confidently submit for job applications. 
 
 ##  Interview Skills
 
+![Interview Skills Evidence](Interview Skills.png)
 ## Reflection
 
 **Situation**
@@ -132,6 +133,27 @@ The screenshot shows I completed the quiz with a 100% completion status, indicat
 **Result**
 I successfully completed the quiz, answering all questions correctly as indicated by the "Correct" result for each one. More importantly, this exercise solidified my theoretical knowledge of interview fundamentals. I now feel equipped to apply these concepts practically; specifically, I plan to use the CAR method (and its more common counterpart, STAR) to structure my answers, ensuring I provide concrete examples of my skills and experiences. This quiz was a valuable step in building my confidence for upcoming mock interviews and real job applications.
 
+## Mock Interview Video
+
+**Evidence**
+**Situation:**
+As part of developing my professional interview skills, I participated in a recorded mock interview session. The interview simulated a real-world scenario for an entry-level position in the ICT field, featuring common behavioral and technical questions that graduates typically encounter.
+
+**Task:**
+My objective was to demonstrate strong communication skills, professional demeanor, and the ability to effectively articulate my qualifications using structured response methods. I aimed to practice handling pressure, thinking on my feet, and receiving constructive feedback to identify areas for improvement.
+
+**Action**
+For the "Tell me about yourself" question, I prepared and delivered a structured elevator pitch that covered:
+Present: My current status as a final-year ICT Diploma student at CPUT
+Past: Relevant technical skills and project experience gained during my studies
+Future: My career aspirations and how they align with potential roles in the technology sector
+Throughout the mock interview, I consciously applied the STAR technique to behavioral questions, ensuring my answers were specific and results-oriented. I maintained professional body language, active listening, and thoughtful pacing in my responses
+
+**Results**
+The mock interview was an invaluable learning experience. Reviewing the recording allowed me to objectively assess my performance. I received positive feedback on my structured approach to "Tell me about yourself" and my ability to provide concrete examples of my skills. Areas identified for improvement included reducing nervous habits and elaborating more on specific technical projects. This exercise significantly boosted my confidence and provided tangible evidence of my interview readiness.
+
+
+## Professional Interview
 
 
 
