@@ -100,7 +100,7 @@ I selected a professional template, gathered all relevant information, and focus
 The result is a polished CV that I can confidently submit for job applications. It presents me as a focused and capable candidate, and I’ve already used it to apply for internships through platforms like LinkedIn and job portals.
 
 ## 📬 Business Communication
-
+![Business Communication Evidence](BusinessCommuniction.png)
 
 **Reflection**
 **S**- During my Business Communication formative assessment, I was required to demonstrate my understanding of effective workplace communication principles, including professionalism, tone, and etiquette
