@@ -114,7 +114,7 @@ The result is a polished CV that I can confidently submit for job applications. 
 
 ##  Interview Skills
 
-![Interview Skills Evidence](Interview Skills.png)
+![Interview Skills Evidence](InterviewSkills.png)
 ## Reflection
 
 **Situation**
@@ -134,7 +134,7 @@ The screenshot shows I completed the quiz with a 100% completion status, indicat
 I successfully completed the quiz, answering all questions correctly as indicated by the "Correct" result for each one. More importantly, this exercise solidified my theoretical knowledge of interview fundamentals. I now feel equipped to apply these concepts practically; specifically, I plan to use the CAR method (and its more common counterpart, STAR) to structure my answers, ensuring I provide concrete examples of my skills and experiences. This quiz was a valuable step in building my confidence for upcoming mock interviews and real job applications.
 
 ## Mock Interview Video
-
+[![Watch my mock interview]()
 **Evidence**
 **Situation:**
 As part of developing my professional interview skills, I participated in a recorded mock interview session. The interview simulated a real-world scenario for an entry-level position in the ICT field, featuring common behavioral and technical questions that graduates typically encounter.
