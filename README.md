@@ -154,7 +154,7 @@ The mock interview was an invaluable learning experience. Reviewing the recordin
 
 
 ## Professional Networking
-![Interview Skills Evidence](InterviewSkills.png)
+![Professional Networking](eventPicture.png)
 ### Situation
 I engaged in two key professional networking activities: completing a theoretical quiz on networking principles through our online learning platform, and practically applying these concepts at the **Woolworths Women in Tech Caraval event**. At this industry event, I had the opportunity to network with numerous professionals in the technology field while assisting Dr. Hendricks with robotics demonstrations.
 
@@ -175,7 +175,7 @@ My objectives were twofold: first, to demonstrate theoretical knowledge of netwo
 The combination of theoretical learning and practical application proved incredibly valuable. I successfully completed the networking quiz with a 100% attempt rate, while the Woolworths event yielded tangible results: I made **5 new professional contacts** in the ICT industry, gained insights into current technology trends, and received positive feedback on my robotics demonstration skills. This experience transformed abstract networking concepts into practical relationship-building skills that I can continue to develop throughout my career. The event also boosted my confidence in approaching professionals and articulating my career interests effectively.
 
 ## Work Etiquette
-![Interview Skills Evidence](InterviewSkills.png)
+![Work Etiquette](WorkEtiquette.png)
 
 ## Reflection: STAR Technique
 
