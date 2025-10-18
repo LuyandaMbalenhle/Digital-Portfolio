@@ -98,3 +98,15 @@ I selected a professional template, gathered all relevant information, and focus
 
 **R – Result**  
 The result is a polished CV that I can confidently submit for job applications. It presents me as a focused and capable candidate, and I’ve already used it to apply for internships through platforms like LinkedIn and job portals.
+
+**Business Communication**
+Business Communication.png
+
+**Reflection**
+S- During my Business Communication formative assessment, I was required to demonstrate my understanding of effective workplace communication principles, including professionalism, tone, and etiquette
+
+T-My goal was to apply the knowledge gained from the Business Communication module to complete the assessment accurately and show mastery of both verbal and non-verbal communication techniques.
+
+A- I reviewed all the module content, focusing on communication tone, formality, and email etiquette. I ensured that my answers reflected real-world business standards, such as using appropriate tone and clarity in messaging. I also practiced responding to different communication scenarios before taking the assessments
+
+R- I successfully completed the assessment with a 100% score, proving my ability to apply business communication principles effectively. This achievement shows that I can communicate clearly, professionally, and appropriately in workplace environments.
