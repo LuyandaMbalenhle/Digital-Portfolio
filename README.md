@@ -103,6 +103,7 @@ The result is a polished CV that I can confidently submit for job applications. 
 ![Business Communication Evidence](BusinessCommuniction.png)
 
 **Reflection**
+
 **S**- During my Business Communication formative assessment, I was required to demonstrate my understanding of effective workplace communication principles, including professionalism, tone, and etiquette
 
 **T**-My goal was to apply the knowledge gained from the Business Communication module to complete the assessment accurately and show mastery of both verbal and non-verbal communication techniques.
@@ -110,5 +111,27 @@ The result is a polished CV that I can confidently submit for job applications. 
 **A**- I reviewed all the module content, focusing on communication tone, formality, and email etiquette. I ensured that my answers reflected real-world business standards, such as using appropriate tone and clarity in messaging. I also practiced responding to different communication scenarios before taking the assessments
 
 **R**- I successfully completed the assessment with a 100% score, proving my ability to apply business communication principles effectively. This achievement shows that I can communicate clearly, professionally, and appropriately in workplace environments.
+
+##  Interview Skills
+
+## Reflection
+
+**Situation**
+As part of the Project Presentation 3 coursework, I was required to complete an online quiz on Blackboard to test my foundational knowledge of effective interview skills. The quiz consisted of multiple-choice questions covering key topics such as the purpose of an interview, structured response methods like CAR, and strategies for answering common interview questions.
+
+**Task**
+My task was to successfully complete this quiz, demonstrating a clear understanding of core interview concepts. The goal was not just to achieve a high score, but to internalize these techniques so I could apply them confidently in a real-world job interview scenario.
+
+**Action**
+Before attempting the quiz, I reviewed the provided learning materials on interview preparation. During the quiz, I carefully read each question and selected the answer I believed was most correct based on my study. For example:
+I understood that the primary purpose of an interview is a two-way conversation to assess mutual fit, not just a one-sided interrogation.
+I recognized the CAR method (Context, Action, Result) as a structured technique for answering behavioral questions.
+I selected the strategy of providing a concise, professional summary when asked "Tell me about yourself," rather than a personal history.
+The screenshot shows I completed the quiz with a 100% completion status, indicating I engaged with all the questions.
+
+**Result**
+I successfully completed the quiz, answering all questions correctly as indicated by the "Correct" result for each one. More importantly, this exercise solidified my theoretical knowledge of interview fundamentals. I now feel equipped to apply these concepts practically; specifically, I plan to use the CAR method (and its more common counterpart, STAR) to structure my answers, ensuring I provide concrete examples of my skills and experiences. This quiz was a valuable step in building my confidence for upcoming mock interviews and real job applications.
+
+
 
 
