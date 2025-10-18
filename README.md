@@ -153,7 +153,25 @@ Throughout the mock interview, I consciously applied the STAR technique to behav
 The mock interview was an invaluable learning experience. Reviewing the recording allowed me to objectively assess my performance. I received positive feedback on my structured approach to "Tell me about yourself" and my ability to provide concrete examples of my skills. Areas identified for improvement included reducing nervous habits and elaborating more on specific technical projects. This exercise significantly boosted my confidence and provided tangible evidence of my interview readiness.
 
 
-## Professional Interview
+## Professional Networking
 
+### Situation
+I engaged in two key professional networking activities: completing a theoretical quiz on networking principles through our online learning platform, and practically applying these concepts at the **Woolworths Women in Tech Caraval event**. At this industry event, I had the opportunity to network with numerous professionals in the technology field while assisting Dr. Hendricks with robotics demonstrations.
+
+### Task
+My objectives were twofold: first, to demonstrate theoretical knowledge of networking principles through the online quiz; and second, to practically apply these concepts by building genuine connections with professionals at the tech event. I aimed to move beyond theoretical understanding to actual relationship-building in a real-world industry setting.
+
+### Action
+**For the quiz:** I applied my knowledge of networking fundamentals to answer questions about professional etiquette, relationship-building strategies, and common networking mistakes.
+
+**At the Woolworths event:** I actively practiced professional networking by:
+- Introducing myself to industry professionals and fellow students
+- Engaging in meaningful conversations about technology trends and career paths
+- Assisting Dr. Hendricks with robotics demonstrations, which served as both a learning experience and a conversation starter
+- Exchanging contact information with several professionals for future connections
+- Demonstrating my technical skills and enthusiasm for the field through hands-on robotics work
+
+### Result
+The combination of theoretical learning and practical application proved incredibly valuable. I successfully completed the networking quiz with a 100% attempt rate, while the Woolworths event yielded tangible results: I made **5 new professional contacts** in the ICT industry, gained insights into current technology trends, and received positive feedback on my robotics demonstration skills. This experience transformed abstract networking concepts into practical relationship-building skills that I can continue to develop throughout my career. The event also boosted my confidence in approaching professionals and articulating my career interests effectively.
 
 
